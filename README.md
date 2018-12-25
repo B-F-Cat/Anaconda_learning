@@ -12,6 +12,6 @@ Open Anaconda Prompt to command execution
 
 ## Manage packages:
 
-*conda list*: show all packages installed in the env
-*conda search beautifulsoup4*: search available packages named as beautifulsoup4
-*conda install beautifulsoup4*: install package beautifulsoup4 in the env
+*conda list*: show all packages installed in the env  
+*conda search beautifulsoup4*: search available packages named as beautifulsoup4  
+*conda install beautifulsoup4*: install package beautifulsoup4 in the env  
